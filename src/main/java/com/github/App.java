@@ -1,4 +1,4 @@
-package C:\ProgramData\Jenkins\.jenkins\workspace\New Alex' Task\src\main\java\com\github;
+package com.github;
 
 /**
  * Hello again
